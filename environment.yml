@@ -1,9 +1,0 @@
-name: example-environment
-channels:
-  - conda-forge
-dependencies:
-  - voila
-  - fastai
-  - pillow
-  - packaging
-  - ipywidgets
